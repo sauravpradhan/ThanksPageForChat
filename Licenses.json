@@ -1,48 +1,28 @@
 {
   "license_eSENTINEL": [
-	{
-      "IMEI": "004403100005125",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWzMk4Pqik18H78aJmqWVEiBpdReFrciYMazYYI+q5qmA=="
-    },
-	{
-      "IMEI": "004403100005224",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWzMk4Pqik18H78aJmqWVEi7bAbxechOIzpaS5V0SblJA=="
-    },
-	{
-      "IMEI": "004403100005216",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWzMk4Pqik18H78aJmqWVEiJ7uSu/mYdwNVHfc4SCwdIg=="
-    },
-	{
-      "IMEI": "358205082931091",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QV/cQ47OQnlxlcswpP1tbzySVEHq8sjrr+t4J3YTHc+uQ=="
-    },
-	{
-      "IMEI": "004403100005778",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWzMk4Pqik18H78aJmqWVEipiqDn3rA1QcV+Kyhw4gdQQ=="
+    {
+      "IMEI": "356248101010671",
+      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QW1M2D50KtNo+CscMh08\/i7dMLzvYsE9Se9uLO6qhDCSQ=="
     },
     {
-      "IMEI": "004403100005968",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWzMk4Pqik18H78aJmqWVEiCfYOc9fs6XKuqwDuTojuWQ=="
+      "IMEI": "351615081924771",
+      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QXg7MOyfTGOUqSruqtbVYLcf0aBUJzEF10OlKEsSS2ewA=="
     },
-	{
-      "IMEI": "004403109015893",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWDqZg/UjCbpnX46HBvd3D1o0xJpX+MBV5KvJwCf4wPAA=="
+    {
+      "IMEI": "356248101010770",
+      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QW1M2D50KtNo+CscMh08\/i7NXF4b54Xl7LgD\/fstBH+bA=="
     },
-	{
-      "IMEI": "004403109015984",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWDqZg/UjCbpnX46HBvd3D1mBvIuw27wyo2coJjNvdwEw=="
+    {
+      "IMEI": "356248101001316",
+      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QW1M2D50KtNo+CscMh08\/i7Xczx1zulDlPn+kjeY6NMuA=="
     },
-	{
-      "IMEI": "356248101000953",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QW1M2D50KtNo+CscMh08/i7VNW0cgPRESdYTRdGb2VNmg=="
+    {
+      "IMEI": "356248101010762",
+      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QW1M2D50KtNo+CscMh08\/i7P7q92v9l2Vu+3SY3Rnce8A=="
     },
-	{
-      "IMEI": "356248101001357",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QW1M2D50KtNo+CscMh08/i7Lj/sWAEDpu6Vl6c4s2fKsA=="
-    },
-	{
-      "IMEI": "356248101001050",
-      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QW1M2D50KtNo+CscMh08/i7T3+bZQTYJL3cgyLJEfD0sA=="
+    {
+      "IMEI": "004403109015521",
+      "KEY": "yh7NqL1l+ek79R+PN2b54PTmg250GN8iHHYkkBbt+QWDqZg\/UjCbpnX46HBvd3D16iCHnafyectdiPYjyVEbJg=="
     }
   ]
 }
