@@ -1,6 +1,21 @@
 [
-  {"start":58,"end":116},
-  {"start":149,"end":151},
-   {"start":153,"end":154},
-   {"start":154,"end":161}
+{"start":"01.00.026.00","end":"01.00.026.05",
+"relnotes":"First Release","filename":"OTA-Image-A-1613420384723.ZIP",
+"uploaddate":"2021-02-15 20:19:44"},
+
+{"start":"01.00.026.05","end":"01.00.027.05",
+"relnotes":"Second release","filename":"OTA-Image-B-1613420409884.ZIP",
+"uploaddate":"2021-02-15 20:20:09"},
+
+{"start":"01.00.027.05","end":"01.10.027.05",
+"relnotes":"Third release","filename":"OTA-Image-C-1613420409884.ZIP",
+"uploaddate":"2021-02-15 20:20:27"},
+
+{"start":"01.10.027.05","end":"02.00.027.00",
+"relnotes":"Forth release","filename":"OTA-Image-D-1613420409884.ZIP",
+"uploaddate":"2021-02-15 20:20:42"},
+
+{"start":"02.00.027.00","end":"02.00.030.00",
+"relnotes":"Fifth release","filename":"OTA-Image-E-1613420409884.ZIP",
+"uploaddate":"2021-02-15 20:20:58"}
 ]
